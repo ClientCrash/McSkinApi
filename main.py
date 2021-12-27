@@ -19,7 +19,7 @@ def getSkinUrlFromName(name: str):
 
 @app.route("/")
 def home():
-    return "<h1 style='font-family:Arial'>Index</h1><br/><small><a href='https://github.com/clientcrash'>Github</a></small>"
+    return "<link rel='shortcut icon' href='https://raw.githubusercontent.com/ClientCrash/McSkinApi/master/favicon.svg'><h1 style='font-family:Arial'>Index</h1><br/><small><a href='https://github.com/clientcrash'>Github</a></small>"
 
 @app.route("/url/<name>")
 def urlPage(name):
