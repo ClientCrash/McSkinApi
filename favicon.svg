@@ -1,15 +1,11 @@
 <svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
     <g>
         <title>Layer 1</title> <text transform="matrix(13.559 0 0 14.8694 -1319.99 -2521.64)" stroke="#000"
-            xml:space="preserve" text-anchor="start" font-family="'Roboto'" font-size="24" id="svg_2" y="192.77862"
+            xml:space="preserve" text-anchor="start" font-family="'Arial'" font-size="24" id="svg_2" y="192.77862"
             x="100.59466" stroke-width="0" fill="#03b51d">MC</text> <text
             transform="matrix(5.42196 0 0 8.71612 -433.352 -4143.77)" stroke="#000" xml:space="preserve"
-            text-anchor="start" font-family="'Roboto'" font-size="24" id="svg_3" y="549.70687" x="86.38058"
+            text-anchor="start" font-family="'Arial'" font-size="24" id="svg_3" y="549.70687" x="86.38058"
             stroke-width="0" fill="#03b51d">Skin API</text>
     </g>
-    <defs>
-        <style type="text/css">
-            @import url('https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic');
-        </style>
-    </defs>
+
 </svg>
